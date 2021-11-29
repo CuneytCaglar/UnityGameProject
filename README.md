@@ -21,5 +21,5 @@ Summer.io linl : https://simmer.io/@AliFurkanDemir/birdhunt
 
 
 
-Ali Furkan Demir   19360859017  Bursa Teknik Üniversitesi - Oyun Programlama
-Ali Cüneyt Çağlar  19360859081  Bursa Teknik Üniversitesi - Oyun Programlama
+Ali Furkan Demir   -19360859017  Bursa Teknik Üniversitesi - Oyun Programlama
+Ali Cüneyt Çağlar  -19360859081  Bursa Teknik Üniversitesi - Oyun Programlama
